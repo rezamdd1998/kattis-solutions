@@ -1,6 +1,7 @@
-"# kattis-solutions" 
+# kattis-solutions 
 
-Python:
+## Python
+
 [Count the vowels](https://open.kattis.com/problems/countthevowels)
 [finding an A](https://open.kattis.com/problems/findingana)
 [Umferð](https://open.kattis.com/problems/umferd)
@@ -23,4 +24,41 @@ Python:
 [Poker Hand](https://open.kattis.com/problems/pokerhand)
 [Knight Packing](https://open.kattis.com/problems/knightpacking)
 [Metronome](https://open.kattis.com/problems/metronome)
+[Knitpicking](https://open.kattis.com/problems/knitpicking)
+[Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic)
+[Chanukah Challenge](https://open.kattis.com/problems/chanukah)
+[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)
+[Digit Swap](https://open.kattis.com/problems/digitswap)
+[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)
+[FYI](https://open.kattis.com/problems/fyi)
+[IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
+[Planina](https://open.kattis.com/problems/planina)
+[Pet](https://open.kattis.com/problems/pet)
+[Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)
+[Stopwatch](https://open.kattis.com/problems/stopwatch)
+[Triangle Area](https://open.kattis.com/problems/triarea)
+[Odd Echo](https://open.kattis.com/problems/oddecho)
+[Greetings!](https://open.kattis.com/problems/greetings2)
+[Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)
+[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)
+[N-sum](https://open.kattis.com/problems/nsum)
+[Rating Problems](https://open.kattis.com/problems/ratingproblems)
+[Two-sum](https://open.kattis.com/problems/twosum)
+[Heart Rate](https://open.kattis.com/problems/heartrate)
+[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)
+[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
+[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)
+[Boss Battle](https://open.kattis.com/problems/bossbattle)
+[Opening Ceremony](https://open.kattis.com/problems/ceremony)
+
+
+
+## C++
+
+[Guess the Number](https://open.kattis.com/problems/guess)
+[I'm Thinking of a Number](https://open.kattis.com/problems/thinkingofanumber)
+[Periodic Strings](https://open.kattis.com/problems/periodicstrings)
+[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)
+[Baby Bites](https://open.kattis.com/problems/babybites)
+[Radio Commercials](https://open.kattis.com/problems/commercials)
 
