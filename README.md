@@ -61,4 +61,4 @@
 [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)
 [Baby Bites](https://open.kattis.com/problems/babybites)
 [Radio Commercials](https://open.kattis.com/problems/commercials)
-
+[Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2)
