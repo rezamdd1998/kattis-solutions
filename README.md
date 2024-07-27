@@ -1,1 +1,26 @@
 "# kattis-solutions" 
+
+Python:
+[Count the vowels](https://open.kattis.com/problems/countthevowels)
+[finding an A](https://open.kattis.com/problems/findingana)
+[Umferð](https://open.kattis.com/problems/umferd)
+[Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)
+[Kiki Boba](https://open.kattis.com/problems/kikiboba)
+[Hraðgreining](https://open.kattis.com/problems/hradgreining)
+[Reduplication](https://open.kattis.com/problems/reduplikation)
+[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)
+[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)
+[Millifærsla](https://open.kattis.com/problems/millifaersla)
+[Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)
+[Framtíðar FIFA](https://open.kattis.com/problems/fifa)
+[Óvissa](https://open.kattis.com/problems/ovissa)
+[Leggja saman](https://open.kattis.com/problems/leggjasaman)
+[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)
+[Á leið í bíó](https://open.kattis.com/problems/aleidibio)
+[Velkomin!](https://open.kattis.com/problems/velkomin)
+[Which is Greater?](https://open.kattis.com/problems/whichisgreater)
+[99 Problems](https://open.kattis.com/problems/99problems)
+[Poker Hand](https://open.kattis.com/problems/pokerhand)
+[Knight Packing](https://open.kattis.com/problems/knightpacking)
+[Metronome](https://open.kattis.com/problems/metronome)
+
