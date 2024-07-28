@@ -1,0 +1,1 @@
+print(max([i+o for i,o in enumerate(reversed(sorted(map(int,[input(),input()][1].split()))))])+2)
