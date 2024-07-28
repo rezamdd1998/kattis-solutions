@@ -2,7 +2,7 @@
 
 |No.|Problem|Language|Solution|
 |:---:|:---|:---:|:---:|
-|1|[3D Printed Statues](https://open.kattis.com/problems/3dprinter)|python|[Link](./python/?.python)|
+|1|[3D Printed Statues](https://open.kattis.com/problems/3dprinter)|python|[Link](./python/99problems.py)|
 |2|[4 thought](https://open.kattis.com/problems/4thought)|cpp|[Link](./cpp/?.cpp)|
 |3|[99 Problems](https://open.kattis.com/problems/99problems)|python|[Link](./python/?.python)|
 |4|[A Different Problem](https://open.kattis.com/problems/different)|python|[Link](./python/?.python)|
