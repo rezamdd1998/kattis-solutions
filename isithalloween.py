@@ -1,1 +1,0 @@
-print('yup' if input() in ['DEC 25','OCT 31'] else 'nope')
